@@ -1,4 +1,4 @@
-# TensorFlow-Advanced-Techn0iques-Specialization
+# TensorFlow-Advanced-Techniques-Specialization
 Deeplearning.AI TensorFlow: Advanced Techniques Specialization Solution 
 
 ## Course 1: Custom Models, Layers, and Loss Functions with TensorFlow
