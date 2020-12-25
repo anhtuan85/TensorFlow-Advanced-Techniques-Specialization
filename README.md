@@ -16,3 +16,5 @@ Deeplearning.AI TensorFlow: Advanced Techniques Specialization Solution
 * [Week 1 - Differentiation and Gradients](https://github.com/anhtuan85/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%202%20-%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/Week%201)
 
 * [Week 2 - Custom Training](https://github.com/anhtuan85/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%202%20-%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/Week%202)
+
+* [Week 3 - Graph Mode](https://github.com/anhtuan85/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%202%20-%20Custom%20and%20Distributed%20Training%20with%20TensorFlow/Week%203)
