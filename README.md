@@ -24,3 +24,5 @@ Deeplearning.AI TensorFlow: Advanced Techniques Specialization Solution
 ## Course 3: Advanced Computer Vision with TensorFlow
 
 * [Week 1 - Introduction to Computer Vision](https://github.com/anhtuan85/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%203%20-%20Advanced%20Computer%20Vision%20with%20TensorFlow/Week%201)
+
+* [Week 2 - Advanced Computer Vision with TensorFlow](https://github.com/anhtuan85/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%203%20-%20Advanced%20Computer%20Vision%20with%20TensorFlow/Week%202)
