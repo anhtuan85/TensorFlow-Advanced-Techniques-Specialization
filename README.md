@@ -26,3 +26,5 @@ Deeplearning.AI TensorFlow: Advanced Techniques Specialization Solution
 * [Week 1 - Introduction to Computer Vision](https://github.com/anhtuan85/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%203%20-%20Advanced%20Computer%20Vision%20with%20TensorFlow/Week%201)
 
 * [Week 2 - Object Detection](https://github.com/anhtuan85/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%203%20-%20Advanced%20Computer%20Vision%20with%20TensorFlow/Week%202)
+
+* [Week 3 - Image Segmentation](https://github.com/anhtuan85/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%203%20-%20Advanced%20Computer%20Vision%20with%20TensorFlow/Week%203)
