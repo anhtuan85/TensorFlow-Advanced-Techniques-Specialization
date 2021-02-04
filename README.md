@@ -34,3 +34,5 @@ Deeplearning.AI TensorFlow: Advanced Techniques Specialization Solution
 ## Course 4: Generative Deep Learning with TensorFlow
 
 * [Week 1 - Style Transfer](https://github.com/anhtuan85/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%204%20-%20Generative%20Deep%20Learning%20with%20TensorFlow/Week%201)
+
+* [Week 2 - AutoEncoders](https://github.com/anhtuan85/TensorFlow-Advanced-Techniques-Specialization/tree/main/Course%204%20-%20Generative%20Deep%20Learning%20with%20TensorFlow/Week%202)
